@@ -34,7 +34,7 @@ O Tindev é um projeto que foi baseado no aplicativo Tinder.
 
 O Tindev foi desenvolvido com o objetivo de permitir desenvolvedores a fazerem networking e match com outros devs. Semelhante ao aplicativo Tinder, que cada usuário possui uma foto de avatar, nome e uma pequena bio, onde todas essas informações são buscadas do seu GitHub.
 
-Este é um projeto desenvolvido durante a **[Next Level Week Together](https://nextlevelweek.com/)**, apresentada nos dias 05 a 11 de Agosto de 2019.
+Este é um projeto desenvolvido durante a **[Semana OmniStack #08](https://nextlevelweek.com/)**, apresentada nos dias 05 a 11 de Agosto de 2019.
 
 ## 🔖 Layout
 
